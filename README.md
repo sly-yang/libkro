@@ -13,7 +13,7 @@ License
 =======
 
 libkro is covered by BSD open source licenses.
-Refer to [LICENSE.md](LICENSE.md) for license terms.
+Refer to [LICENSE](LICENSE) for license terms.
 
 
 Building libkro
