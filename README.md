@@ -2,8 +2,9 @@ Background
 ==========
 
 KRO image files were created by authors of the AutoPano tools to independently get around the 30K limitation of many 
-other image formats, it is basically a simple format that stores all raw data in uncompressed format. A detailed description
-can be found on [Paul Bourke's website](https://paulbourke.net/dataformats/kro/), a snapshot is provided here as well.
+other image formats, it is basically a simple image format that stores all raw data in uncompressed format. 
+A detailed description can be found on [Paul Bourke's website](https://paulbourke.net/dataformats/kro/), 
+a snapshot is provided here as well.
 
 Despite its simplicity, there are few open source libraries that manipulates the format, the libkro is therefore here 
 to provide a convenient way for reading and writing KRO format.

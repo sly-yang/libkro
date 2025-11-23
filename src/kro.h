@@ -2,7 +2,7 @@
  * @file kro.h
  * @brief: KRO image I/O library
  * @version: 1.0.0
- * @copyright: GPL v2
+ * @copyright: BSD 3-Clause License
  * @author: Shilong YANG
  * @date: 2025-11-23 13:23:59
  *
